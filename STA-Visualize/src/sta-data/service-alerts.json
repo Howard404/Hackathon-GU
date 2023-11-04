@@ -163,7 +163,7 @@
                 "description_text": {
                     "translation": [
                         {
-                            "text": "Detour on Route 61 INBOUND from Fairchild @ Spaatz to Fairchild @ Front Gate due to emergency personnel.\u000d\u000a\u000d\u000aDetour Instructions: IB FROM BX\u000d\u000aFROM SAC BLVD\u000d\u000aL-CASTLE\u000d\u000aCONTINUE STRAIGHT THROUGH MITCHELL TO EAKER\u000d\u000aL-RAMBO RD\u000d\u000aCONTINUE TO RAMBO RD GATE\u000d\u000aR-HWY 2\u000d\u000aRESUME\u000d\u000a\u000d\u000aClosed Stops: \u000d\u000a\u000d\u000aAlternate Stops: ",
+                            "text": "Detour on Route 61 INBOUND from Fairchild @ Spaatz to Fairchild @ Front Gate due to emergency personnel. Closed Stops: \u000d\u000a\u000d\u000aAlternate Stops: ",
                             "language": "en"
                         }
                     ]
@@ -224,7 +224,7 @@
                 "description_text": {
                     "translation": [
                         {
-                            "text": "Detour on Route 61 OUTBOUND from Hwy 2 @ Spokane Tribe Casino to Fairchild @ 101 Spaatz Rd (BX) due to emergency personnel.\u000d\u000a\u000d\u000aDetour Instructions: IB FROM BX\u000d\u000aFROM SAC BLVD\u000d\u000aL-CASTLE\u000d\u000aCONTINUE STRAIGHT THROUGH MITCHELL TO EAKER\u000d\u000aL-RAMBO RD\u000d\u000aCONTINUE TO RAMBO RD GATE\u000d\u000aR-HWY 2\u000d\u000aRESUME\u000d\u000a\u000d\u000aClosed Stops: Fairchild @ Front Gate\u000d\u000a\u000d\u000aAlternate Stops: ",
+                            "text": "Detour on Route 61 OUTBOUND from Hwy 2 @ Spokane Tribe Casino to Fairchild @ 101 Spaatz Rd (BX) due to emergency personnel. Alternate Stops: ",
                             "language": "en"
                         }
                     ]
@@ -285,7 +285,7 @@
                 "description_text": {
                     "translation": [
                         {
-                            "text": "Detour on Route 61 INBOUND from Fairchild @ 101 Spaatz Rd (BX) to Hwy 2 @ Spokane Tribe Casino due to emergency personnel.\u000d\u000a\u000d\u000aDetour Instructions: IB FROM BX\u000d\u000aFROM SAC BLVD\u000d\u000aL-CASTLE\u000d\u000aCONTINUE STRAIGHT THROUGH MITCHELL TO EAKER\u000d\u000aL-RAMBO RD\u000d\u000aCONTINUE TO RAMBO RD GATE\u000d\u000aR-HWY 2\u000d\u000aRESUME\u000d\u000a\u000d\u000aClosed Stops: Fairchild @ Spaatz\u000d\u000a\u000d\u000aAlternate Stops: ",
+                            "text": "Detour on Route 61 INBOUND from Fairchild @ 101 Spaatz Rd (BX) to Hwy 2 @ Spokane Tribe Casino due to emergency personnel. Closed Stops: Fairchild @ Spaatz\u000d\u000a\u000d\u000aAlternate Stops: ",
                             "language": "en"
                         }
                     ]
@@ -370,7 +370,7 @@
                 "description_text": {
                     "translation": [
                         {
-                            "text": "Detour on Route 94 INBOUND from Broadway @ Sargent to Park @ Sprague due to emergency personnel.\u000d\u000a\u000d\u000aDetour Instructions: FROM BROADWAY \u000d\u000aL-VISTA \u000d\u000aR-VALLEYWAY \u000d\u000aL-PARK \u000d\u000aRESUME\u000d\u000a\u000d\u000aClosed Stops: Broadway @ Vista\u000d\u000aBroadway @ Ella\u000d\u000aPark @ Broadway\u000d\u000aPark @ Valleyway\u000d\u000a\u000d\u000aAlternate Stops: ",
+                            "text": "Detour on Route 94 INBOUND from Broadway @ Sargent to Park @ Sprague due to emergency personnel.Closed Stops: Broadway @ Vista\u000d\u000aBroadway @ Ella\u000d\u000aPark @ Broadway\u000d\u000aPark @ Valleyway\u000d\u000a\u000d\u000aAlternate Stops: ",
                             "language": "en"
                         }
                     ]
@@ -455,7 +455,7 @@
                 "description_text": {
                     "translation": [
                         {
-                            "text": "Detour on Route 94 OUTBOUND from Park @ Sprague to Broadway @ Sargent due to emergency personnel.\u000d\u000a\u000d\u000aDetour Instructions: FROM PARK \u000d\u000aR-VALLEYWAY \u000d\u000aL-VISTA\u000d\u000aR-BROADWAY \u000d\u000aRESUME\u000d\u000a\u000d\u000aClosed Stops: Park @ Valleyway\u000d\u000aPark @ Broadway\u000d\u000aBroadway @ Ella\u000d\u000aBroadway @ Vista\u000d\u000a\u000d\u000aAlternate Stops: ",
+                            "text": "Detour on Route 94 OUTBOUND from Park @ Sprague to Broadway @ Sargent due to emergency personnel. Closed Stops: Park @ Valleyway Park @ Broadway Broadway @ Ella Broadway @ Vista aAlternate Stops: ",
                             "language": "en"
                         }
                     ]
@@ -516,7 +516,7 @@
                 "description_text": {
                     "translation": [
                         {
-                            "text": "Detour on Route 11 LOOP from Washington @ Spokane Falls Blvd to Howard @ Boone due to emergency personnel.\u000d\u000a\u000d\u000aDetour Instructions: From EASTBOUND SHARP AT WALL \u000d\u000aL-WALL ST\u000d\u000aR- SINTO AV\u000d\u000aR- HOWARD ST\u000d\u000aTO TEMP A FRAME ON HOWARD\u000d\u000a\u000d\u000aClosed Stops: \u000d\u000a\u000d\u000aAlternate Stops: ",
+                            "text": "Detour on Route 11 LOOP from Washington @ Spokane Falls Blvd to Howard @ Boone due to emergency personnel. Closed Stops: Alternate Stops: ",
                             "language": "en"
                         }
                     ]
@@ -601,7 +601,7 @@
                 "description_text": {
                     "translation": [
                         {
-                            "text": "Detour on Route 34 SOUTHBOUND from 29th @ Ray to 29th @ Rosauers for construction.\u000d\u000a\u000d\u000aDetour Instructions: IF YOUR PADDLE USES BAY 1 USE FOLLOWING DETOUR TO ACCESS LAYOVER\u000d\u000aFROM 29TH\u000d\u000aL-REGAL\u000d\u000aR-30TH\u000d\u000aL-MT VERNON\u000d\u000aR-30TH\u000d\u000aL-COOK\u000d\u000aR-31ST\u000d\u000aLAYOVER ON 31ST\u000d\u000aLEAVE USING SE BL\u000d\u000a\u000d\u000aClosed Stops: Route 34, 43 - 29th @ Regal\u000d\u000aRoute 34, 43 - 29th @ Rosauers\u000d\u000aRoute 34, 43 - South Hill Park & Ride Bay 3\u000d\u000aRoute 34, 43 - South Hill Park & Ride Bay 1\u000d\u000a\u000d\u000aAlternate Stops: ",
+                            "text": "Detour on Route 34 SOUTHBOUND from 29th @ Ray to 29th @ Rosauers for construction. Closed Stops: Route 34, 43 - 29th @ Regal Route 34, 43 - 29th @ Rosauers Route 34, 43 - South Hill Park & Ride Bay 3 Route 34, 43 - South Hill Park & Ride Bay 1 Alternate Stops: ",
                             "language": "en"
                         }
                     ]
@@ -686,7 +686,7 @@
                 "description_text": {
                     "translation": [
                         {
-                            "text": "Detour on Route 43 OUTBOUND from 29th @ Ray to 29th @ Rosauers for construction.\u000d\u000a\u000d\u000aDetour Instructions: IF YOUR PADDLE USES BAY 1 USE FOLLOWING DETOUR TO ACCESS LAYOVER\u000d\u000aFROM 29TH\u000d\u000aL-REGAL\u000d\u000aR-30TH\u000d\u000aL-MT VERNON\u000d\u000aR-30TH\u000d\u000aL-COOK\u000d\u000aR-31ST\u000d\u000aLAYOVER ON 31ST\u000d\u000aLEAVE USING SE BL\u000d\u000a\u000d\u000aClosed Stops: Route 43, 34 - 29th @ Regal\u000d\u000aRoute 43, 34 - 29th @ Rosauers\u000d\u000aRoute 43, 34 - South Hill Park & Ride Bay 1\u000d\u000aRoute 43, 34 - South Hill Park & Ride Bay 3\u000d\u000a\u000d\u000aAlternate Stops: ",
+                            "text": "Detour on Route 43 OUTBOUND from 29th @ Ray to 29th @ Rosauers for construction. Closed Stops: Route 43, 34 - 29th @ Regal Route 43, 34 - 29th @ Rosauers Route 43, 34 - South Hill Park & Ride Bay 1 Route 43, 34 - South Hill Park & Ride Bay 3 Alternate Stops: ",
                             "language": "en"
                         }
                     ]
@@ -747,7 +747,7 @@
                 "description_text": {
                     "translation": [
                         {
-                            "text": "Detour on Route 633 OUTBOUND from Geiger @ Amazon to Dowdy @ Geiger Recovery for construction.\u000d\u000a\u000d\u000aDetour Instructions: #633 FROM GEIGER AND THOMAS MALLEN\u000d\u000aL-THOMAS MALLEN\u000d\u000aR-ELECTRIC\u000d\u000aR-BOWDY TO LAYOVER\u000d\u000a\u000d\u000aClosed Stops: \u000d\u000a\u000d\u000aAlternate Stops: ",
+                            "text": "Detour on Route 633 OUTBOUND from Geiger @ Amazon to Dowdy @ Geiger Recovery for construction. Closed Stops:  Alternate Stops: ",
                             "language": "en"
                         }
                     ]
@@ -816,7 +816,7 @@
                 "description_text": {
                     "translation": [
                         {
-                            "text": "Detour on Route 63 OUTBOUND from Geiger @ Amazon to Flightline @ Geiger for construction.\u000d\u000a\u000d\u000aDetour Instructions: #63 OB FROM WPTC\u000d\u000aCONTINUE ON I-90 EAST\u000d\u000aR-EXIT 276 \u000d\u000aL-GROVE\u000d\u000aRESUME\u000d\u000a\u000d\u000a\u000d\u000aClosed Stops: Geiger @ Electric\u000d\u000aGeiger @ Pilot\u000d\u000a\u000d\u000aAlternate Stops: ",
+                            "text": "Detour on Route 63 OUTBOUND from Geiger @ Amazon to Flightline @ Geiger for construction. Closed Stops: Geiger @ Electric Geiger @ Pilot Alternate Stops: ",
                             "language": "en"
                         }
                     ]
@@ -885,7 +885,7 @@
                 "description_text": {
                     "translation": [
                         {
-                            "text": "Detour on Route 63 INBOUND from Flightline @ Geiger to Geiger @ Amazon for construction.\u000d\u000a\u000d\u000aDetour Instructions: #63 IB FROM FLIGHTLINE AND GEIGER\u000d\u000aSTRAIGHT THROUGH GEIGER\u000d\u000aR-I-90 WEST TO WPTC\u000d\u000a\u000d\u000aClosed Stops: Geiger @ Pilot\u000d\u000aGeiger @ Electric\u000d\u000a\u000d\u000aAlternate Stops: ",
+                            "text": "Detour on Route 63 INBOUND from Flightline @ Geiger to Geiger @ Amazon for construction. Closed Stops: Geiger @ Pilot Geiger @ Electric Alternate Stops: ",
                             "language": "en"
                         }
                     ]
@@ -946,7 +946,7 @@
                 "description_text": {
                     "translation": [
                         {
-                            "text": "Detour on Route 1 EASTBOUND from Mission @ Cook to SCC City Line Arrival for construction.\u000d\u000a\u000d\u000aDetour Instructions: MISSION & REGAL EB CLOSED DUE TO CONSTRUCTION BLOCKING ACCESS TO STOP.\u000d\u000a\u000d\u000aClosed Stops: Mission @ Regal\u000d\u000a\u000d\u000aAlternate Stops: ",
+                            "text": "Detour on Route 1 EASTBOUND from Mission @ Cook to SCC City Line Arrival for construction. Closed Stops: Mission @ Regal Alternate Stops: ",
                             "language": "en"
                         }
                     ]
