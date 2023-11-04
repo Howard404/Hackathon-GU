@@ -1,11 +1,11 @@
+import { ServiceAlert } from "./ServiceAlert";
 
 function App() {
-
-  return (
-    <>
-    Hello
-    </>
-  )
+    return (
+        <>
+            <ServiceAlert />
+        </>
+    )
 }
 
-export default App
+export default App;
